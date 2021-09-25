@@ -4,6 +4,9 @@ import './ShowEmployees.css';
 const ShowEmployees = (props) => {
 
     // console.log(props.employee);
+
+    // destructuring 
+
     const { name, gender, age, country, designation, salary, picture } = props.employee || {};
 
     return (
@@ -14,6 +17,9 @@ const ShowEmployees = (props) => {
 
             <div class="card mb-3 cardStyle">
                 <div class="row g-0">
+
+                    {/* Employee image, icon part starts  */}
+
                     <div class="col-md-4 card-body">
                         <img src={picture} className="img-fluid rounded-start employee-img" alt="..." />
                         <h5>
@@ -24,9 +30,14 @@ const ShowEmployees = (props) => {
 
                             <i class="fas fa-envelope-open"></i> <i class="fab fa-twitter"></i></h5>
 
-
-
                     </div>
+
+
+                    {/* Employee image, icon part ends  */}
+
+
+                    {/* Employee Details and button part starts  */}
+
                     <div class="col-md-8">
                         <div class="card-body">
                             <h4 class="card-title title-text"> <small>{name}</small></h4>
@@ -39,6 +50,10 @@ const ShowEmployees = (props) => {
 
                         </div>
                     </div>
+
+                    {/* Employee Details and button part ends  */}
+
+
                 </div>
             </div >
         </div>

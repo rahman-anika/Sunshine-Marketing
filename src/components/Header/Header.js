@@ -4,7 +4,8 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="header">
-            {/* <img className="logo" src={logo} alt="" /> */}
+
+            {/* header starts  */}
             <div className="top-header">
                 <h2>Sunshine Marketing</h2>
                 <h4>Let's grow your business together</h4>
@@ -13,12 +14,19 @@ const Header = () => {
                 <h4>Total Budget: $ 70 million </h4>
 
             </div>
+
+            {/* header ends  */}
+
+
+            {/* nav starts  */}
+
             <nav>
                 <a href="/aboutus">About Us</a>
                 <a href="/carrer">Carrer</a>
                 <a href="/contact">Contact</a>
             </nav>
 
+            {/* nav ends  */}
 
         </div>
     );

@@ -1,12 +1,21 @@
+/* employee heading style starts  */
+
 .employees-heading{
     text-align: center;
     color:goldenrod;
     
-    
 }
+
+/* employee heading style ends  */
+
+/* employee details card style starts  */
 
 .employee-details{
 margin-bottom: 20px;
 border-right: 2px solid lightgray;
 
 }
+
+/* employee details card style ends  */
+
+

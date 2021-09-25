@@ -15,15 +15,25 @@ const Calculation = (props) => {
 
     return (
         <div>
+
+            {/* Total added employee starts  */}
+
             <h5>
                 Total Added Employee: {calculation.length}
             </h5>
+
+            {/* Total added employee ends  */}
+
+            {/* Total salary starts  */}
 
             <h5>
                 Total Salary: <i class="fas fa-dollar-sign"></i> {totalSalary}
             </h5>
 
+            {/* Total salary ends  */}
 
+
+            {/* showing employee name after clicking Show More button starts */}
 
             <ul>
                 {
@@ -31,6 +41,7 @@ const Calculation = (props) => {
                 }
             </ul>
 
+            {/* showing employee name after clicking Show More button ends */}
 
         </div>
     );

@@ -6,8 +6,16 @@ import Main from './components/Main/Main';
 function App() {
   return (
     <div>
+      {/* header part starts  */}
       <Header></Header>
+
+      {/* header parts ends  */}
+
+      {/* Main part starts  */}
       <Main></Main>
+
+      {/* Main part ends  */}
+
     </div>
   );
 }

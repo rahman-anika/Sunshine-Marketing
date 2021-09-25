@@ -1,3 +1,5 @@
+/* top and bottom header style starts */
+
 .header{
     text-align: center;
 }
@@ -6,8 +8,17 @@
 background-color: rgb(243, 204, 106);
 padding: 22px;
 
-
 }
+
+.bottom-header{
+    background-color: rgb(243, 204, 106);
+    padding: 6px;
+ 
+}
+
+/* top and bottom header style ends */
+
+/* nav style starts  */
 
 .header nav{
     background-color: rgb(243, 204, 106);
@@ -31,14 +42,6 @@ background-color: goldenrod;
 
 }
 
-.bottom-header{
-    background-color: rgb(243, 204, 106);
-    padding: 6px;
+/* nav style ends  */
 
-    
-    }
 
-/* .logo{
-    height:50px;
-
-} */

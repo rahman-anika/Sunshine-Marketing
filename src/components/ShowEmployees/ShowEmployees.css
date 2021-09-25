@@ -1,3 +1,5 @@
+/* card style starts */
+
 .cardStyle{
     max-width: 740px;
     margin-top: 20px;
@@ -7,17 +9,28 @@
 
 }
 
+/* card style ends */
+
+/* employee image style starts  */
+
 .employee-img{
 width: 200px;
 height: 90px;
 
 }
 
+/* employee image style ends  */
+
+/* employee title and designation style starts  */
+
 .title-text{
 color:goldenrod;
 
-
 }
+
+/* employee title and designation style ends  */
+
+/* Show More button style starts  */
 
 .btn-show-more{
 background-color: goldenrod;
@@ -26,3 +39,7 @@ border-radius: 20px;
 padding: 8px 14px;
 
 }
+
+/* Show More button style ends  */
+
+
