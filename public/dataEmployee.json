@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "614f5ec971924edf509385cf",
+        "picture": "https://randomuser.me/api/portraits/med/men/62.jpg",
+        "name": "James Frank",
+        "age": 22,
+        "gender": "male",
+        "country": "Malaysia",
+        "designation": "HR Manager",
+        "salary": 39000
+    },
+    {
+        "_id": "614f5ec97746b7989e9a99b9",
+        "picture": "https://randomuser.me/api/portraits/med/women/32.jpg",
+        "name": "Tabitha Blake",
+        "age": 32,
+        "gender": "female",
+        "country": "Colombia",
+        "designation": "Product manager",
+        "salary": 37000
+    },
+    {
+        "_id": "614f5ec966ae7ff0e372c0ec",
+        "picture": "https://randomuser.me/api/portraits/med/men/73.jpg",
+        "name": "Oneil Bailey",
+        "age": 28,
+        "gender": "male",
+        "country": "Portugal",
+        "designation": "Finance manager",
+        "salary": 24000.76
+    },
+    {
+        "_id": "614f5ec9d072c7e8986b900a",
+        "picture": "https://randomuser.me/api/portraits/med/women/86.jpg",
+        "name": "Aisha Hendrix",
+        "age": 28,
+        "gender": "female",
+        "country": "Aruba",
+        "designation": "Finance manager",
+        "salary": 34000
+    },
+    {
+        "_id": "614f5ec9ac7b9c04f27518fc",
+        "picture": "https://randomuser.me/api/portraits/med/men/22.jpg",
+        "name": "Evans Rocha",
+        "age": 26,
+        "gender": "male",
+        "country": "Spain",
+        "designation": "HR manager",
+        "salary": 32000
+    },
+    {
+        "_id": "614f5ec9aee1aa81824447d1",
+        "picture": "https://randomuser.me/api/portraits/med/women/65.jpg",
+        "name": "Esmera Herri",
+        "age": 27,
+        "gender": "female",
+        "country": "Mexico",
+        "designation": "CEO",
+        "salary": 41000
+    },
+    {
+        "_id": "614f5ec9d5cc8577c3b8eb18",
+        "picture": "https://randomuser.me/api/portraits/med/men/97.jpg",
+        "name": "Ware Dickson",
+        "age": 24,
+        "gender": "male",
+        "country": "Australia",
+        "designation": "CMO",
+        "salary": 36000.81
+    },
+    {
+        "_id": "614f5ec9c80265752d3a158e",
+        "picture": "https://randomuser.me/api/portraits/med/women/12.jpg",
+        "name": "Suzanne Herr",
+        "age": 26,
+        "gender": "female",
+        "country": "England",
+        "designation": "IT Manager",
+        "salary": 34000
+    },
+    {
+        "_id": "614f5ec9a687dc3620b2693e",
+        "picture": "https://randomuser.me/api/portraits/med/men/74.jpg",
+        "name": "Griffin Nava",
+        "age": 25,
+        "gender": "male",
+        "country": "Italy",
+        "designation": "Executive Assistant",
+        "salary": 21000
+    }
+]

@@ -1,0 +1,28 @@
+.cardStyle{
+    max-width: 740px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px solid goldenrod;
+    border-radius: 20px;
+
+}
+
+.employee-img{
+width: 200px;
+height: 90px;
+
+}
+
+.title-text{
+color:goldenrod;
+
+
+}
+
+.btn-show-more{
+background-color: goldenrod;
+border: 1px solid lightgray;
+border-radius: 20px;
+padding: 8px 14px;
+
+}
