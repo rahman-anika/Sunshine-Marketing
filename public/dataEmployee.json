@@ -71,7 +71,7 @@
     },
     {
         "_id": "614f5ec9c80265752d3a158e",
-        "picture": "https://randomuser.me/api/portraits/med/women/12.jpg",
+        "picture": "https://randomuser.me/api/portraits/med/women/2.jpg",
         "name": "Suzanne Herr",
         "age": 26,
         "gender": "female",
@@ -88,5 +88,35 @@
         "country": "Italy",
         "designation": "Executive Assistant",
         "salary": 21000
+    },
+    {
+        "_id": "614f5ec9a687dc3620b2693f",
+        "picture": "https://randomuser.me/api/portraits/med/men/94.jpg",
+        "name": "Humph Molina",
+        "age": 27,
+        "gender": "male",
+        "country": "Spain",
+        "designation": "IT Manager",
+        "salary": 31000
+    },
+    {
+        "_id": "614fe62877b4966d0d52de44",
+        "picture": "https://randomuser.me/api/portraits/med/men/40.jpg",
+        "name": "Wooten Decker",
+        "age": 28,
+        "gender": "male",
+        "country": "COMOROS",
+        "designation": "Finance manager",
+        "salary": 23
+    },
+    {
+        "_id": "614fe628086a340e3081ed4a",
+        "picture": "https://randomuser.me/api/portraits/med/women/82.jpg",
+        "name": "Shanna Lindsay",
+        "age": 32,
+        "gender": "female",
+        "country": "LATVIA",
+        "designation": "HR Manager",
+        "salary": 38000
     }
 ]
